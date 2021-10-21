@@ -14,7 +14,7 @@ class JoinDBComp():
             self.firebasehandler.processListener()
             self.process = self.firebasehandler.getProcess()
             self.processmanager.runProcess(self.process)
-            time.sleep(0.1)
+            time.sleep(0.3)
 
 
 
