@@ -1,2 +1,2 @@
 # Connectivity
-Joke Virus that communicates a cellphone with computer, made with python, firebase and react native
+Experiment to communicate a cellphone with a windows computer, made with python, firebase and react native
